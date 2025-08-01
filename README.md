@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Vinicius! 👋
 
-<!--
-**ViniciusMoraesTavares/ViniciusMoraesTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas pelo Claretiano.  
+Tenho 22 anos e experiência prática com JavaScript, Node.js, React, TypeScript, SQL, HTML e CSS.
 
-Here are some ideas to get you started:
+Atuo como freelancer remoto desde 2024 na empresa Myelin, desenvolvendo sistemas web, realizando manutenção, deploy e suporte técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e ferramentas que uso com frequência:
+
+- JavaScript / TypeScript  
+- Node.js  
+- React  
+- SQL (MySQL, PostgreSQL)  
+- HTML / CSS  
+- Git / GitHub  
+- VS Code  
+
+## Sobre mim
+
+- Apaixonado por código limpo e boas práticas  
+- Gosto de aprender novas tecnologias e automações  
+- Busco sempre entregar soluções eficientes e de qualidade  
+
+## Projetos
+
+Aqui você encontrará alguns dos meus projetos pessoais e profissionais. Sinta-se à vontade para explorar, dar feedback ou contribuir!
+
+---
+
+Se quiser saber mais, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vinicius-moraes-25992b217/).
+
+---
+
+Obrigado pela visita! 🚀
