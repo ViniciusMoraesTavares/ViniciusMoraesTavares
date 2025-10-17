@@ -99,5 +99,5 @@ Site elegante e otimizado para profissional de beleza, com foco em agendamento e
 
 ---
 
-⭐ *“Simplicidade é a sofisticação máxima.” – Leonardo da Vinci*  
+📖 *“Façam tudo para a glória de Deus.” – 1 Coríntios 10:31*  
 Obrigado por visitar meu perfil! 🚀
