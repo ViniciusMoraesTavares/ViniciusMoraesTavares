@@ -1,7 +1,7 @@
 # Olá, eu sou o Vinicius! 👋
 
 Sou desenvolvedor Fullstack, formado em Análise e Desenvolvimento de Sistemas pelo Claretiano.  
-Tenho 22 anos e experiência prática com JavaScript, Node.js, React, TypeScript, SQL, HTML e CSS.
+Tenho 23 anos e experiência prática com JavaScript, Node.js, React, TypeScript, SQL, HTML e CSS.
 
 Desde 2024, atuo como freelancer remoto na empresa Myelin, desenvolvendo sistemas web, realizando manutenção, deploy e suporte técnico direto ao cliente.
 
