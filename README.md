@@ -26,7 +26,7 @@ Desde **2024**, atuo como **freelancer remoto na empresa [Myelin](https://myelin
 
 - 💻 Desenvolvedor focado em performance, clareza e código limpo  
 - ✝️ Cristão, mineiro e cruzeirense  
-- ⚙️ Curioso sobre o funcionamento de tecnologias avançadas (IA, automações, videogames, carros elétricos, foguetes)  
+- ⚙️ Curioso sobre o funcionamento de tecnologias avançadas (IA, automações, videogames, computadores)  
 - 🚀 Busco unir **simplicidade, lógica e propósito** em cada projeto  
 - 📍 Moro em **Rio Claro - SP**   
 
