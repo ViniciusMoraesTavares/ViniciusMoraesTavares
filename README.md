@@ -79,8 +79,8 @@ Aplicação em React para exibição de boletins digitais da igreja, com PDFs e 
 ---
 
 ### 🖥️ Sistema Desktop Offline – Sorteio Família do Altar (IPB Santa Gertrudes)
-Aplicação desktop local para automatizar sorteios e registrar resultados de eventos internos.  
-**Tecnologias:** Node.js, Electron, SQLite.  
+Aplicação desktop local para automatizar sorteios e registrar resultados de eventos internos da igreja. Sistema instalado diretamente no computador com banco de dados local.
+**Tecnologias:** Python, PySide, SQLite, PyInstaller.  
 **Papel:** Desenvolvimento completo da solução offline.
 
 ---
